@@ -1,4 +1,4 @@
-# iceycharon 👋 
+# iceycharon
 ![](https://komarev.com/ghpvc/?username=iceycharon)
 
 Belki yaptığım işleri paylaşırım.
